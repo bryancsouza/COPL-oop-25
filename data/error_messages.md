@@ -1,5 +1,5 @@
 ---
-path: "/error_messages"
+path: "/COPL-oop-24/error_messages"
 title: "Common error messages"
 hidden: false
 information_page: true

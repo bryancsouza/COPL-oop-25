@@ -1,5 +1,5 @@
 ---
-path: "/exam-adv"
+path: "/COPL-oop-24/exam-adv"
 title: "Advanced Course in Programming exam 24.02."
 information_page: true
 sidebar_priority: 4800

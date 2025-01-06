@@ -9,7 +9,7 @@ sidebar_priority: 7000
 
 This is the course material for the first part of **Concepts of Programming Languanges (SOW-BKI-137)** which is based on the course 'Advanced Course in Programming' from the Department of Computer Science at the University of Helsinki.
 
-To pass either of the two courses you are expected to complete programming exercises and take part in an exam. Please see the [Grading and exams](/grading-and-exams) page for more details.
+To pass either of the two courses you are expected to complete programming exercises and take part in an exam. Please see the [Grading and exams](/COPL-oop-24/grading-and-exams) page for more details.
 
 ## Support channels on the course
 

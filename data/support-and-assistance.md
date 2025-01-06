@@ -1,5 +1,5 @@
 ---
-path: "/support-and-assistance"
+path: "/COPL-oop-24/support-and-assistance"
 title: "Support and assistance"
 hidden: false
 information_page: true

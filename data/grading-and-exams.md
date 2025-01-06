@@ -1,5 +1,5 @@
 ---
-path: "/grading-and-exams"
+path: "/COPL-oop-24/grading-and-exams"
 title: "Grading and exams"
 hidden: false
 information_page: true

@@ -1,5 +1,5 @@
 ---
-path: "/exam-intro"
+path: "/COPL-oop-24/exam-intro"
 title: "Introduction to Programming exam 13.01."
 information_page: true
 sidebar_priority: 4900

@@ -1,5 +1,5 @@
 ---
-path: '/all-exercises'
+path: '/COPL-oop-24/all-exercises'
 title: 'All exercises'
 hidden: false
 hide_in_sidebar: false
