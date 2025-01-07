@@ -1,5 +1,5 @@
 ---
-path: "/COPL-oop-24/glossary"
+path: "/glossary"
 title: "Glossary"
 hidden: true
 information_page: true

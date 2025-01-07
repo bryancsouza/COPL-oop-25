@@ -1,5 +1,5 @@
 ---
-path: "/"
+path: "/COPL-oop-24/"
 title: "About this course"
 hidden: false
 information_page: true

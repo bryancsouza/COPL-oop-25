@@ -1,5 +1,5 @@
 ---
-path: "/COPL-oop-24/exam"
+path: "/exam"
 title: "Exam 4.6."
 information_page: true
 sidebar_priority: 5000
