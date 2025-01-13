@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkohjelmoinnin_mooc=self.webpackChunkohjelmoinnin_mooc||[]).push([[125],{97412:function(e,n,t){t.r(n);var l=t(96540),a=t(67997),o=t(79875),c=t(77744),u=t(93673);n.default=(0,c.ko)((()=>l.createElement(a.A,null,l.createElement(o.A,null,l.createElement(u.A,{title:"404"}),l.createElement("h1",null,"Page not found"),l.createElement("p",null,"You have reached an address that does not exist.")))))}}]);
+//# sourceMappingURL=component---src-pages-404-js-d724ea700c9fb281e403.js.map
