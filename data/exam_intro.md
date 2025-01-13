@@ -2,7 +2,6 @@
 path: "/exam-intro"
 title: "Introduction to Programming exam 13.01."
 information_page: true
-hide_in_sidebar: true
 sidebar_priority: 4900
 hide_in_sidebar: true
 ---
