@@ -1,7 +1,7 @@
 ---
 path: "/support-and-assistance"
 title: "Support and assistance"
-hidden: false
+hidden: true
 information_page: true
 sidebar_priority: 4000
 ---

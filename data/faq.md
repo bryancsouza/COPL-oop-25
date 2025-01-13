@@ -2,6 +2,7 @@
 path: "/faq"
 title: "Frequently asked questions"
 hidden: false
+hide_in_sidebar: true
 information_page: true
 sidebar_priority: 3000
 ---
@@ -10,7 +11,7 @@ sidebar_priority: 3000
 
 ### I found a mistake in the course material or in a programming exercise
 
-We would be very grateful if you'd let us know through the course support channels or via email to course maintainers at ohjelmoinnin-mooc@helsinki.fi. Thank you!
+The creators of the course would be very grateful if you'd let them know through the original course support channels or via email to course maintainers at ohjelmoinnin-mooc@helsinki.fi. Thank you!
 
 ### Why doesn't TMC show all parts of the course? How can I download the next part's exercises?
 

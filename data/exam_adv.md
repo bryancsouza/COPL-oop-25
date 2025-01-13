@@ -2,6 +2,7 @@
 path: "/exam-adv"
 title: "Advanced Course in Programming exam 24.02."
 information_page: true
+hide_in_sidebar: true
 sidebar_priority: 4800
 hide_in_sidebar: false
 ---

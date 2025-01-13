@@ -2,6 +2,7 @@
 path: "/grading-and-exams"
 title: "Grading and exams"
 hidden: false
+hide_in_sidebar: true
 information_page: true
 sidebar_priority: 6000
 ---
