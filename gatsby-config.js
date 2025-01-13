@@ -3,11 +3,13 @@ const blue = require("@material-ui/core/colors/red").default
 
 const CourseSettings = require('./course-settings')
 
+
 module.exports = {
   siteMetadata: {
     title: CourseSettings.name,
     siteUrl: CourseSettings.siteUrl,
   },
+  pathPrefix: "/COPL-oop-25",
   plugins: [
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-styled-components",
