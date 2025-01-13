@@ -1,5 +1,6 @@
 {
   "name": "ohjelmoinnin-mooc",
+  "homepage": "https://bryancsouza.github.io/COPL-oop-25",
   "engines": {
     "node": "16.x"
   },
