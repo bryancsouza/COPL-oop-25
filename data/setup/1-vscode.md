@@ -4,17 +4,6 @@ title: 'The Visual Studio Code editor, Python interpreter and built-in debugging
 hidden: false
 ---
 
-<text-box variant='learningObjectives' name="Learning objectives">
-
-After this section
-
-- You will be equipped to use the Visual Studio Code editor to complete exercises on this course
-- You will be familiar with the interactive Python interpreter, and will be able to use it to run code
-
-</text-box>
-
-Thus far all the exercises on this course have been completed directly on the course pages in embedded editor windows. Programming in the browser is very suitable for the very first steps in programming, but now it is time to start using a separate editor especially made for programming.
-
 There are dozens of different editors that are suited to programming. On this course we will use the [Visual Studio Code](https://code.visualstudio.com/) editor, which has been gaining traction in recent years.
 
 Please install the Visual Studio Code editor on your own computer now. You may also need to install Python and the Visual Studio Code plugin for Python. You will also need the TMC plugin, which will take care of running the tests that go with the exercises. In the TMC plugin, select **Radboud Universiteit** as the organization and **Concepts of Programming Languages: Object Oriented Programming 2025** as the course.
