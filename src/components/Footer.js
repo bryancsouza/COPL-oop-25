@@ -119,11 +119,11 @@ const Footer = ({ t }) => {
             </GithubContainer>
             <ButtonContainer>
               <Button to="/report-issue">{t("footer-report-issue")}</Button>
-              {filePath && (
+              {/* {filePath && (
                 <Button to={`/edit-page?path=${filePath}`}>
                   {t("footer-edit-page")}
                 </Button>
-              )}
+              )} */}
             </ButtonContainer>
             <ContentContainer>
               {t("makers")}{" "}
