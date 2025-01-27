@@ -64,7 +64,7 @@ class MissingInfo extends React.Component {
       <Layout>
         <Container>
           <Helmet title="Profile" />
-          <h1>Profiili</h1>
+          <h1>Profile</h1>
 
           <p>
             Here you can edit your mooc.fi account settings for this course.
