@@ -249,21 +249,7 @@ class CourseOptionsEditor extends React.Component {
                 />
               </Row>
 
-              <Row>
-                <FormControlLabel
-                  control={
-                    <Checkbox
-                      checked={this.state.digital_education_for_all}
-                      onChange={this.handleCheckboxInput}
-                      name="digital_education_for_all"
-                      value="1"
-                    />
-                  }
-                  label="Olen tällä hetkellä opiskelijana Digital Education for All -hankkeessa. Jätä tämä valitsematta mikäli et tiedä kyseisestä hankkeesta."
-                />
-              </Row>
-
-              <Row>
+              {/* <Row>
                 <FormControlLabel
                   control={
                     <Checkbox
@@ -275,9 +261,9 @@ class CourseOptionsEditor extends React.Component {
                   }
                   label={this.props.t("marketing")}
                 />
-              </Row>
+              </Row> */}
 
-              {this.state.course_variants.length === 0 ? null : (
+              {/* {this.state.course_variants.length === 0 ? null : (
                 <div>
                   <h2>{this.props.t("courseInfo")}</h2>
                   <Row>
@@ -332,11 +318,11 @@ class CourseOptionsEditor extends React.Component {
                     </FormControl>
                   </Row>
                 </div>
-              )}
+              )} */}
             </div>
           </Loading>
 
-          <h2>{this.props.t("researchTitle")}</h2>
+          {/* <h2>{this.props.t("researchTitle")}</h2>
 
           <p>{this.props.t("research1")}</p>
 
@@ -383,7 +369,7 @@ class CourseOptionsEditor extends React.Component {
                 />
               </RadioGroup>
             </Loading>
-          </Row>
+          </Row> */}
 
           <Row>
             <Button
