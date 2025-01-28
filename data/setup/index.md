@@ -1,6 +1,6 @@
 ---
 path: '/setup'
-title: 'Setup'
+title: 'Setup (VS code)'
 overview: true
 hidden: false
 sidebar_priority: 6000
