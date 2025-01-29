@@ -86,9 +86,12 @@ class CourseOptionsEditor extends React.Component {
     let extraFields = {
       digital_education_for_all: this.state.digital_education_for_all,
       use_course_variant: this.state.use_course_variant,
-      course_variant: "0",//this.state.course_variant,
-      marketing: "0",//this.state.marketing,
-      research: "0",//this.state.research,
+      course_variant: "0",
+      marketing: "0",
+      research: "0",
+      // course_variant: this.state.course_variant,
+      // marketing: this.state.marketing,
+      // research: this.state.research,
     }
     const userField = {
       first_name: this.state.first_name,
