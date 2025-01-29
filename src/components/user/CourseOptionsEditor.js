@@ -167,7 +167,8 @@ class CourseOptionsEditor extends React.Component {
       const researchNotAnswered = prev.research === undefined
       const missingVariant = prev.use_course_variant && !prev.course_variant
 
-      return { error: researchNotAnswered || missingVariant }
+      return { error: false }
+      // return { error: researchNotAnswered || missingVariant }
     })
   }
 
