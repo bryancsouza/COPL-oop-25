@@ -43,7 +43,7 @@ class SignInPage extends React.Component {
 
     return (
       <Layout>
-        <Helmet title="Luo käyttäjätunnus" />
+        <Helmet title="Create a username" />
         <Container>{stepComponent}</Container>
       </Layout>
     )
