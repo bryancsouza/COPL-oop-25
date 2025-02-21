@@ -2,7 +2,12 @@ import React from "react"
 import styled from "styled-components"
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import { faInfoCircle, faUserGraduate } from "@fortawesome/free-solid-svg-icons"
+import {
+  faInfoCircle,
+  faUserGraduate,
+  faCubesStacked,
+  faFileCode,
+} from "@fortawesome/free-solid-svg-icons"
 import withSimpleErrorBoundary from "../util/withSimpleErrorBoundary"
 
 const Wrapper = styled.aside`
@@ -34,11 +39,13 @@ const Body = styled.div`
 const variantToColor = {
   hint: "#528afc",
   learningObjectives: "#57b181",
+  exercise: "#81d6f7",
 }
 
 const variantToIcon = {
   hint: faInfoCircle,
   learningObjectives: faUserGraduate,
+  exercise: faCubesStacked,
 }
 
 const TextBox = (props) => {
