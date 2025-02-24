@@ -27,6 +27,7 @@ import TextBox from "./TextBox"
 import SampleData from "./SampleData"
 import SampleOutput from "./SampleOutput"
 import Youtube from "./Youtube"
+import ClickQuiz from "./ClickQuiz"
 import Quiz from "./Quiz"
 import Quiznator from "./Quiznator"
 import PleaseLogin from "./PleaseLogin"
@@ -101,6 +102,7 @@ const mapping = () => ({
   notice: Notice,
   youtube: Youtube,
   quiz: Quiz,
+  "click-quiz": ClickQuiz,
   quiznator: Quiznator,
   table: Table,
   tbody: TableBody,

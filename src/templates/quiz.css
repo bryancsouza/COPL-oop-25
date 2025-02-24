@@ -1,0 +1,30 @@
+.quiz-list {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    list-style-type: lower-alpha;
+  }
+
+  .quiz-item:hover {
+    background: #6c757d7c;
+    cursor: pointer;
+  }
+
+  .quiz-item:active {
+    background: #dc3545;
+  }
+
+  .quiz-item.wrong {
+    background: #dc3545;
+  }
+
+  .quiz-item.wrong .result {
+    color: white;
+  }
+
+  .quiz-item.correct {
+    background: #28a745 !important;
+  }
+
+  .quiz-item.correct .result {
+    color: white;
+  }
