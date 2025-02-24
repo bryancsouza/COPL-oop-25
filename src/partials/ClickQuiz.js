@@ -3,7 +3,6 @@ import "../templates/quiz.css" // Import the CSS file for styling
 
 const ClickQuiz = (props) => {
   const [clicked, setClicked] = useState(false)
-  console.log(props)
   return (
     <li
       className={`quiz-item ${
