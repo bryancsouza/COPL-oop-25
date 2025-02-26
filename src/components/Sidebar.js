@@ -177,12 +177,12 @@ const Sidebar = (props) => {
           {props.mobileMenuOpen ? (
             <span>
               <StyledIcon icon={faTimes} />
-              Sulje valikko
+              Close menu
             </span>
           ) : (
             <span>
               <StyledIcon icon={faBars} />
-              Avaa valikko
+              Open menu
             </span>
           )}
         </Button>
