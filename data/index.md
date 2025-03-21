@@ -17,7 +17,9 @@ Through the OOP part of the course we will use some of the reading materials and
 
 The course support channels are the workgroups and the discord channel. Please consult the course manual in Brightspace for more information.
 
-Use Discord primarily for communication. You can be in contact with the course teachers by e-mail bryan.dacostasouza@donders.ru.nl.
+Use Discord primarily for communication. You can be in contact with the course teachers by the following e-mails:
+
+bryan.dacostasouza@donders.ru.nl and emma.gerritse@ru.nl
 
 ## Lectures (University of Helsinki)
 
