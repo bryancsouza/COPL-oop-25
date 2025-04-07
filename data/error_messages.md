@@ -1,6 +1,6 @@
 ---
 path: "/error_messages"
-title: "Common error messages"
+title: "Common Python error messages"
 hidden: false
 information_page: true
 sidebar_priority: 2000

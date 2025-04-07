@@ -1,8 +1,8 @@
 const courseSettings = {
   language: "en",
   name: "Concepts of Programming Languages",
-  siteUrl: "https://bryancsouza.github.io/COPL-oop-25/",
-  githubUrl: "https://github.com/bryancsouza/COPL-oop-25",
+  siteUrl: "https://www.emmagerritse.com/COPL-oop-25/",
+  githubUrl: "https://github.com/EmmaGerritse/COPL-oop-25",
   subtitle: "Object Oriented Programming",
   slug: "programming-23",
   organizationName: "Radboud University",
